@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": ["ESNext", "DOM", "ES2015.Iterable"],
+        "module": "commonjs",
+        "resolveJsonModule": true,
+        "downlevelIteration": true,
+        "isolatedModules": false,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "skipLibCheck": true,
+        "paths": {}
+    }
+}
